@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '0c5923d72361897a1c6d3c15619d3729fdc3d7a1',
+    'reference' => '007856974cb8fa0fa9dd906fde24f8243057d449',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -619,6 +619,15 @@ private static $installed = array (
         0 => '9.1.2',
       ),
     ),
+    'drupal/entity_reference_revisions' => 
+    array (
+      'pretty_version' => '1.8.0',
+      'version' => '1.8.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.8',
+    ),
     'drupal/field' => 
     array (
       'replaced' => 
@@ -836,6 +845,15 @@ private static $installed = array (
         0 => '9.1.2',
       ),
     ),
+    'drupal/paragraphs' => 
+    array (
+      'pretty_version' => '1.12.0',
+      'version' => '1.12.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.12',
+    ),
     'drupal/path' => 
     array (
       'replaced' => 
@@ -871,7 +889,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '0c5923d72361897a1c6d3c15619d3729fdc3d7a1',
+      'reference' => '007856974cb8fa0fa9dd906fde24f8243057d449',
     ),
     'drupal/responsive_image' => 
     array (
@@ -1035,6 +1053,15 @@ private static $installed = array (
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/webform' => 
+    array (
+      'pretty_version' => '6.0.0',
+      'version' => '6.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6.0.0',
     ),
     'drupal/workflows' => 
     array (
