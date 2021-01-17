@@ -1,0 +1,4 @@
+name: Theater Module
+description: Theater Module
+type: module
+core_version_requirement: 9.x

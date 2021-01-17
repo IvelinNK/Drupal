@@ -1,0 +1,7 @@
+theater.article_list:
+  path: '/theater/articles'
+  defaults:
+    _controller: 'Drupal\theater\Controller\ArticleController::page'
+    _title: 'Theater Module'
+  requirements:
+    _permission: 'access content'
