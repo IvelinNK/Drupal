@@ -5,8 +5,8 @@
  */
 function theater_theme($existing, $type, $theme, $path) {
     return array(
-        'article_list' => array(
-            'variables' => array('items' => array(), 'title' => '')
+        'terms_conditions' => array(
+            'variables' => array('title' => '', 'terms' => '')
         )
     );
 }

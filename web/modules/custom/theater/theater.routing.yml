@@ -1,7 +1,7 @@
-theater.article_list:
+theater.terms_conditions:
   path: '/theater/terms'
   defaults:
-    _controller: 'Drupal\theater\Controller\ArticleController::page'
-    _title: 'Terms and conditions page'
+    _controller: 'Drupal\theater\Controller\TermsController::page'
+    _title: 'Theater Module'
   requirements:
     _permission: 'access content'
