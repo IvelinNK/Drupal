@@ -2,7 +2,7 @@
 
 namespace Drupal\theater\Controller;
 
-class ArticleController {
+class TermsController {
 
   public function page() {
 
